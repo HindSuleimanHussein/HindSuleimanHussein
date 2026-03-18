@@ -48,14 +48,14 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hindsuleimanhussein&theme=rose&show_icons=true&locale=en&layout=compact" alt="hindsuleimanhussein" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HindHussein&theme=rose&show_icons=true&locale=en&layout=compact" alt="HindHussein" /></p>
 
 <br>
 
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="25"><b> My Status:</b>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hindsuleimanhussein&show_icons=true&theme=rose&locale=en" alt="hindsuleimanhussein" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HindHussein&show_icons=true&theme=rose&locale=en" alt="HindHussein" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hindsuleimanhussein&theme=rose" alt="hindsuleimanhussein" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HindHussein&theme=rose" alt="HindHussein" /></p>
 
 
 ## <b> Let's Connect..!</b>
